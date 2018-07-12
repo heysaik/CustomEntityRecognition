@@ -1,7 +1,7 @@
 [
 	{
 		"tokens": ["Can", "Pebble", "Time", "compete", "with", "the", "Apple", "Watch", "?"],
-		"labels": ["NONE", "PROD", "PROD", "NONE", "NONE", "NONE", "PROD", "PROD", "NONE",]
+		"labels": ["NONE", "PROD", "PROD", "NONE", "NONE", "NONE", "PROD", "PROD", "NONE"]
 	},
 	{
 		"tokens": ["12", "little", "known", "facts", "about", "the", "creation", "of", "Apple", "Music", "."],
