@@ -1,0 +1,30 @@
+[
+	{
+		"tokens": ["Can", "Pebble", "Time", "compete", "with", "the", "Apple", "Watch", "?"],
+		"labels": ["NONE", "PROD", "PROD", "NONE", "NONE", "NONE", "PROD", "PROD", "NONE",]
+	},
+	{
+		"tokens": ["12", "little", "known", "facts", "about", "the", "creation", "of", "Apple", "Music", "."],
+		"labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "PROD", "PROD", "NONE"]
+	},
+	{
+		"tokens": ["Target", "now", "accepts", "Apple", "Pay", "at", "all", "stores", "across", "the", "nation", "."],
+		"labels": ["NONE", "NONE", "NONE", "PROD", "PROD", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE"]
+	},
+	{
+		"tokens": ["Add", "a", "Power", "Charging", "Sound", "to", "Your", "MacBook", "with", "a", "Terminal", "Command", ":", "When", "you", "plug", "in", "your", "iPhone", ",", "you", "get", "it"],
+		"labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "PROD", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "PROD", "NONE", "NONE", "NONE", "NONE"]
+	},
+	{
+		"tokens": ["In", "September", ",", "Apple", "will", "release", "3", "new", "iPhones", "."],
+		"labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "PROD", "NONE"]
+	},
+	{
+		"tokens": ["Don't", "you", "think", "that", "the", "iPad", "Pro", "is", "the", "best", "device", "?"],
+		"labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "PROD", "PROD", "NONE", "NONE", "NONE", "NONE", "NONE"]
+	}, 
+	{
+		"tokens": ["Apple", "executives", "believe", "that", "the", "MacBook", "is", "the", "best", "laptop", "."],
+		"labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "PROD", "NONE", "NONE", "NONE", "NONE", "NONE"]
+	}
+]
